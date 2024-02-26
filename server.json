@@ -1,0 +1,900 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Jupyter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 110
+    }
+  ]
+}
